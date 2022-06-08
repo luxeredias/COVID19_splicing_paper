@@ -7,8 +7,13 @@ Thomaz Lüscher Dias1,2, Izabela Mamede Costa Andrade da Conceição1, Nayara Ev
 Rafael Polidoro Alves Barbosa3, Luiz Eduardo Del-Bem6, Helder Nakaya2,4,5, Glória Regina Franco1
 
 1Department of Biochemistry and Immunology, Institute of Biological Sciences, Federal University of Minas Gerais, Minas Gerais, Brazil;
+
 2Department of Clinical and Toxicological Analyses, School of Pharmaceutical Sciences, University of São Paulo, São Paulo, Brazil;
+
 3Department of Pediatrics, Indiana University School of Medicine, Indiana, United States;
+
 4Scientific Platform Pasteur-University of São Paulo, São Paulo, Brazil;
+
 5Hospital Israelita Albert Einstein, São Paulo, Brazil.
+
 6Department of Botanics, Federal University of Minas Gerais, Minas Gerais, Brazil
